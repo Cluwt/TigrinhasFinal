@@ -1,0 +1,1 @@
+web: gunicorn tigrinhas.wsgi --log-file -
